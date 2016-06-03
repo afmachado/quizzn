@@ -1,225 +1,226 @@
-Kabul,Afghanistan,Asia Pacific
-Tirana,Albania,Europe
-Algiers,Algeria,Africa
-Pago Pago,American Samoa,Islands
-Andorra la Vella,Andorra,Europe
-Luanda,Angola,Africa
-The Valley,Anguilla,Islands
-St. John's,Antigua and Barbuda,Islands
-Buenos Aires,Argentina,Americas
-Yerevan,Armenia,Europe
-Oranjestad,Aruba,Islands
-Georgetown,Ascension Island,Islands
-Canberra,Australia,Asia Pacific
-Vienna,Austria,Europe
-Baku,Azerbaijan,Asia Pacific
-Nassau,Bahamas,Islands
-Manama,Bahrain,Middle East
-Dhaka,Bangladesh,Asia Pacific
-Bridgetown,Barbados,Islands
-Minsk,Belarus,Asia Pacific
-Brussels,Belgium,Europe
-Belmopan,Belize,Americas
-Porto-Novo,Benin,Africa
-Hamilton,Bermuda,Islands
-Thimphu,Bhutan,Asia Pacific
-Sucre,Bolivia (const'l),Americas
-La Paz,Bolivia (admin),Americas
-Sarajevo,Bosnia and Herzegovina,Europe
-Gaborone,Botswana,Africa
-Brasília,Brazil,Americas
-Road Town,British Virgin Islands,Islands
-Bandar Seri Begawan,Brunei,Asia Pacific
-Sofia,Bulgaria,Europe
-Ouagadougou,Burkina Faso,Africa
-Bujumbura,Burundi,Africa
-Phnom Penh,Cambodia,Asia Pacific
-Yaoundé,Cameroon,Africa
-Ottawa,Canada,Americas
-Praia,Cape Verde,Islands
-George Town,Cayman Islands,Islands
-Bangui,Central African Republic,Africa
-N'Djamena,Chad,Africa
-Santiago,Chile,Americas
-Beijing,China,Asia Pacific
-Flying Fish Cove,Christmas Island,Islands
-Bogotá,Colombia,Americas
-Moroni,Comoros,Africa
-Avarua,Cook Islands,Islands
-San José,Costa Rica,Americas
-Yamoussoukro,Côte d'Ivoire,Africa
-Zagreb,Croatia,Europe
-Havana,Cuba,Islands
-Willemstad,Curaçao,Islands
-Nicosia,Cyprus,Europe
-Prague,Czech Republic,Europe
-Kinshasa,Dem. Rep. of the Congo,Africa
-Copenhagen,Denmark,Europe
-Roseau,Dominica,Islands
-Santo Domingo,Dominican Republic,Americas
-Dili,East Timor,Asia Pacific
-Hanga Roa,Easter Island,Islands
-Quito,Ecuador,Americas
-Cairo,Egypt,Middle East
-San Salvador,El Salvador,Americas
-Malabo,Equatorial Guinea,Africa
-Asmara,Eritrea,Africa
-Tallinn,Estonia,Europe
-Addis Ababa,Ethiopia,Africa
-Stanley,Falkland Islands,Islands
-Tórshavn,Faroe Islands,Islands
-Palikir,Federated States of Micronesia,Islands
-Suva,Fiji,Islands
-Helsinki,Finland,Europe
-Paris,France,Europe
-Cayenne,French Guiana,Americas
-Papeete,French Polynesia,Islands
-Libreville,Gabon,Africa
-Banjul,Gambia,Africa
-Tbilisi,Georgia,Asia Pacific
-Berlin,Germany,Europe
-Accra,Ghana,Africa
-Athens,Greece,Europe
-St. George's,Grenada,Islands
-Hagåtña,Guam,Islands
-Guatemala City,Guatemala,Americas
-Conakry,Guinea,Africa
-Bissau,Guinea-Bissau,Africa
-Georgetown,Guyana,Americas
-Port-au-Prince,Haiti,Americas
-Tegucigalpa,Honduras,Americas
-Budapest,Hungary,Europe
-Reykjavík,Iceland,Europe
-New Delhi,India,Asia Pacific
-Jakarta,Indonesia,Asia Pacific
-Tehran,Iran,Middle East
-Baghdad,Iraq,Middle East
-Dublin,Ireland,Europe
-Jerusalem,Israel,Middle East
-Rome,Italy,Europe
-Kingston,Jamaica,Islands
-Tokyo,Japan,Asia Pacific
-Amman,Jordan,Middle East
-Astana,Kazakhstan,Asia Pacific
-Nairobi,Kenya,Africa
-Tarawa,Kiribati,Islands
-Kuwait City,Kuwait,Middle East
-Bishkek,Kyrgyzstan,Asia Pacific
-Vientiane,Laos,Asia Pacific
-Riga,Latvia,Asia Pacific
-Beirut,Lebanon,Middle East
-Maseru,Lesotho,Africa
-Monrovia,Liberia,Africa
-Tripoli,Libya,Middle East
-Vaduz,Liechtenstein,Europe
-Vilnius,Lithuania,Europe
-Skopje,Macedonia,Europe
-Antananarivo,Madagascar,Africa
-Lilongwe,Malawi,Africa
-Kuala Lumpur,Malaysia,Asia Pacific
-Malé,Maldives,Islands
-Bamako,Mali,Africa
-Valletta,Malta,Europe
-Majuro,Marshall Islands,Islands
-Nouakchott,Mauritania,Africa
-Port Louis,Mauritius,Africa
-Mamoudzou,Mayotte,Islands
-Mexico City,Mexico,Americas
-Chisinau,Moldova,Europe
-Ulaanbaatar,Mongolia,Asia Pacific
-Podgorica,Montenegro,Europe
-Rabat,Morocco,Africa
-Maputo,Mozambique,Africa
-Naypyidaw,Myanmar,Asia Pacific
-Stepanakert,Nagorno-Karabakh Rep.,Asia Pacific
-Windhoek,Namibia,Africa
-Yaren,Nauru,Islands
-Kathmandu,Nepal,Asia Pacific
-Amsterdam,Netherlands,Europe
-Nouméa,New Caledonia,Islands
-Wellington,New Zealand,Asia Pacific
-Managua,Nicaragua,Americas
-Niamey,Niger,Africa
-Abuja,Nigeria,Africa
-Alofi,Niue,Islands
-Kingston,Norfolk Island,Islands
-Pyongyang,North Korea,Asia Pacific
-Belfast,Northern Ireland,Europe
-Saipan,N. Mariana Islands,Islands
-Oslo,Norway,Europe
-Muscat,Oman,Middle East
-Islamabad,Pakistan,Asia Pacific
-Melekeok,Palau,Islands
-Panama City,Panama,Americas
-Port Moresby,Papua New Guinea,Asia Pacific
-Asunción,Paraguay,Americas
-Lima,Peru,Americas
-Manila,Philippines,Asia Pacific
-Warsaw,Poland,Europe
-Lisbon,Portugal,Europe
-San Juan,Puerto Rico,Islands
-Doha,Qatar,Middle East
-Brazzaville,Republic of the Congo,Africa
-Bucharest,Romania,Europe
-Moscow,Russia,Europe
-Kigali,Rwanda,Africa
-Gustavia,Saint Barthélemy,Islands
-Jamestown,Saint Helena,Islands
-Basseterre,Saint Kitts and Nevis,Islands
-Castries,Saint Lucia,Islands
-Marigot,Saint Martin,Islands
-St. Pierre,St. Pierre & Miquelon,Islands
-Kingstown,St. Vincent & Grenadines,Islands
-Apia,Samoa,Islands
-São Tomé,São Tomé & Príncipe,Islands
-Riyadh,Saudi Arabia,Middle East
-Edinburgh,Scotland,Europe
-Dakar,Senegal,Africa
-Belgrade,Serbia,Europe
-Victoria,Seychelles,Islands
-Freetown,Sierra Leone,Africa
-Philipsburg,Sint Maarten,Islands
-Bratislava,Slovakia,Europe
-Ljubljana,Slovenia,Europe
-Honiara,Solomon Islands,Islands
-Mogadishu,Somalia,Africa
-Pretoria,South Africa,Africa
-Grytviken,S. Georgia & S. Sandwich Is.,Islands
-Seoul,South Korea,Asia Pacific
-Madrid,Spain,Europe
-Sri Jayawardenepura,Sri Lanka,Asia Pacific
-Khartoum,Sudan,Africa
-Paramaribo,Suriname,Americas
-Mbabane,Swaziland,Africa
-Stockholm,Sweden,Europe
-Bern,Switzerland,Europe
-Damascus,Syria,Middle East
-Dushanbe,Tajikistan,Asia Pacific
-Dodoma,Tanzania,Africa
-Bangkok,Thailand,Asia Pacific
-Lomé,Togo,Africa
-Nuku?alofa,Tonga,Islands
-Port of Spain,Trinidad & Tobago,Islands
-Edinburgh of the Seven Seas,Tristan da Cunha,Islands
-Tunis,Tunisia,Africa
-Ankara,Turkey,Middle East
-Ashgabat,Turkmenistan,Asia Pacific
-Cockburn Town,Turks and Caicos Islands,Islands
-Funafuti,Tuvalu,Islands
-Kampala,Uganda,Africa
-Kiev,Ukraine,Europe
-Abu Dhabi,United Arab Emirates,Middle East
-London,United Kingdom,Europe
-"Washington,D.C.",United States,Americas
-Charlotte Amalie,U.S. Virgin Islands,Islands
-Montevideo,Uruguay,Americas
-Tashkent,Uzbekistan,Asia Pacific
-Port Vila,Vanuatu,Islands
-Caracas,Venezuela,Americas
-Hanoi,Vietnam,Asia Pacific
-Cardiff,Wales,Europe
-Mata-Utu,Wallis and Futuna,Islands
-Sanaá,Yemen,Middle East
-Lusaka,Zambia,Africa
-Harare,Zimbabwe,Africa
-Taipei,Taiwan,Asia Pacific
+Cabul,Afeganistão,Ásia-Pacífico
+Tirana,Albânia,Europa
+Argel,Argélia,África
+Pago Pago,Samoa Americana,Ilhas
+Andorra-a-Velha,Andorra,Europa
+Luanda,Angola,África
+The Valley,Anguilla,Ilhas
+St. John's,Antigua e Barbuda,Ilhas
+Buenos Aires,Argentina,Américas
+Yerevan,Armênia,Europa
+Oranjestad,Aruba,Ilhas
+Georgetown,Ilha de Ascensão,Ilhas
+Camberra,Austrália,Ásia-Pacífico
+Viena,Áustria,Europa
+Baku,Azerbaijão,Ásia-Pacífico
+Nassau,Bahamas,Ilhas
+Manama,Bahrein,Oriente Médio
+Daca,Bangladesh,Ásia-Pacífico
+Bridgetown,Barbados,Ilhas
+Minsk,Bielorrússia,Ásia-Pacífico
+Bruxelas,Bélgica,Europa
+Belmopan,Belize,Américas
+Porto Novo,Benin,África
+Hamilton,Bermuda,Ilhas
+Thimbu,Butão,Ásia-Pacífico
+Sucre,Bolívia (const'l),Américas
+La Paz,Bolívia (admin),Américas
+Sarajevo,Bósnia e Herzegovina,Europa
+Gaborone,Botswana,África
+Brasília,Brasil,Américas
+Road Town,Ilhas Virgens Britânicas,Ilhas
+Bandar Seri Begawan,Brunei,Ásia-Pacífico
+Sofia,Bulgária,Europa
+Ouagadougou,Burkina Faso,África
+Bujumbura,Burundi,África
+Phnom Penh,Camboja,Ásia-Pacífico
+Yaoundé,Camarões,África
+Ottawa,Canadá,Américas
+Praia,Cabo Verde,Ilhas
+George Town,Ilhas Cayman,Ilhas
+Bangui,República Centro-Africana,África
+N'Djamena,Chad,África
+Santiago,Chile,Américas
+Pequim,China,Ásia-Pacífico
+Flying Fish Cove,Ilha do Natal,Ilhas
+Bogotá,Colombia,Américas
+Moroni,Comores,África
+Avarua,Ilhas Cook,Ilhas
+San José,Costa Rica,Américas
+Yamoussoukro,Costa do Marfim,África
+Zagreb,Croácia,Europa
+Havana,Cuba,Ilhas
+Willemstad,Curaçao,Ilhas
+Nicósia,Chipre,Europa
+Praga,República Checa,Europa
+Kinshasa,Rep. Dem. do Congo,África
+Copenhague,Dinamarca,Europa
+Roseau,Dominica,Ilhas
+Santo Domingo,República Dominicana,Américas
+Dili,Timor-Leste,Ásia-Pacífico
+Hanga Roa,Ilha de Páscoa,Ilhas
+Quito,Equador,Américas
+Cairo,Egito,Oriente Médio
+San Salvador,El Salvador,Américas
+Malabo,Guiné Equatorial,África
+Asmara,Eritreia,África
+Tallinn,Estônia,Europa
+Addis Ababa,Etiópia,África
+Stanley,Ilhas Falkland,Ilhas
+Tórshavn,Ilhas Feroe,Ilhas
+Palikir,Estados Federados da Micronésia,Ilhas
+Suva,Fiji,Ilhas
+Helsinki,Finlândia,Europa
+Paris,França,Europa
+Cayenne,Guiana Francesa,Américas
+Papeete,Polinésia Francesa,Ilhas
+Libreville,Gabão,África
+Banjul,Gâmbia,África
+Tbilisi,Geórgia,Ásia-Pacífico
+Berlim,Alemanha,Europa
+Acra,Gana,África
+Atenas,Grécia,Europa
+St. George's,Granada,Ilhas
+Hagåtña,Guam,Ilhas
+Cidade da Guatemala,Guatemala,Américas
+Conacry,Guiné,África
+Bissau,Guiné-Bissau,África
+Georgetown,Guiana,Américas
+Porto Príncipe,Haiti,Américas
+Tegucigalpa,Honduras,Américas
+Budapeste,Hungria,Europa
+Reykjavík,Islândia,Europa
+Nova Deli,Índia,Ásia-Pacífico
+Jacarta,Indonésia,Ásia-Pacífico
+Teerã,Irã,Oriente Médio
+Bagdá,Iraque,Oriente Médio
+Dublin,Irlanda,Europa
+Jerusalém,Israel,Oriente Médio
+Roma,Itály,Europa
+Kingston,Jamaica,Ilhas
+Tóquio,Japão,Ásia-Pacífico
+Amã,Jordânia,Oriente Médio
+Astana,Cazaquistão,Ásia-Pacífico
+Nairobi,Quênia,África
+Tarawa,Kiribati,Ilhas
+Cidade do Kuwait,Kuwait,Oriente Médio
+Bisqueque,Quirguistão,Ásia-Pacífico
+Vientiane,Laos,Ásia-Pacífico
+Riga,Letónia,Ásia-Pacífico
+Beirut,Líbano,Oriente Médio
+Maseru,Lesoto,África
+Monróvia,Libéria,África
+Trípoli,Líbia,Oriente Médio
+Vaduz,Liechtenstein,Europa
+Vilnius,Lituânia,Europa
+Escópia,Macedônia,Europa
+Antananarivo,Madagascar,África
+Lilongwe,Malawi,África
+Kuala Lumpur,Malásia,Ásia-Pacífico
+Malé,Maldivas,Ilhas
+Bamako,Mali,África
+Valeta,Malta,Europa
+Majuro,Ilhas Marshall,Ilhas
+Nouakchott,Mauritânia,África
+Port Louis,Ilhas Maurício,África
+Mamoudzou,Mayotte,Ilhas
+Cidade do México,México,Américas
+Chisinau,Moldávia,Europa
+Ulan Bator,Mongólia,Ásia-Pacífico
+Podgorica,Montenegro,Europa
+Rabat,Marrocos,África
+Maputo,Moçambique,África
+Naypyidaw,Myanmar,Ásia-Pacífico
+Stepanakert,Rep. do Nagorno-Karabakh,Ásia-Pacífico
+Windhoek,Namíbia,África
+Yaren,Nauru,Ilhas
+Kathmandu,Nepal,Ásia-Pacífico
+Amsterdã,Holanda,Europa
+Nouméa,Nova Caledônia,Ilhas
+Wellington,Nova Zelândia,Ásia-Pacífico
+Managua,Nicarágua,Américas
+Niamey,Níger,África
+Abuja,Nigéria,África
+Alofi,Niue,Ilhas
+Kingston,Ilha Norfolk,Ilhas
+Pyongyang,Coréia do Norte,Ásia-Pacífico
+Belfast,Irlanda do Norte,Europa
+Saipan,Il. Marianas do Norte,Ilhas
+Oslo,Noruega,Europa
+Mascate,Omã,Oriente Médio
+Islamabad,Paquistão,Ásia-Pacífico
+Melekeok,Palau,Ilhas
+Cidade do Panama,Panamá,Américas
+Port Moresby,Papua-Nova Guiné,Ásia-Pacífico
+Assunção,Paraguai,Américas
+Lima,Peru,Américas
+Manila,Filipinas,Ásia-Pacífico
+Varsóvia,Polônia,Europa
+Lisboa,Portugal,Europa
+San Juan,Porto Rico,Ilhas
+Doha,Qatar,Oriente Médio
+Brazzaville,República do Congo,África
+Bucareste,Romênia,Europa
+Moscou,Rússia,Europa
+Kigali,Ruanda,África
+Gustávia,São Bartolomeu,Ilhas
+Jamestown,Santa Helena,Ilhas
+Basseterre,São Cristóvão e Nevis,Ilhas
+Castries,Santa Lúcia,Ilhas
+Marigot,São Martinho,Ilhas
+St. Pierre,St. Pierre & Miquelon,Ilhas
+Kingstown,São Vicente e Granadinas,Ilhas
+Apia,Samoa,Ilhas
+São Tomé,São Tomé & Príncipe,Ilhas
+Riyadh,Arábia Saudita,Oriente Médio
+Edimburgo,Escócia,Europa
+Dakar,Senegal,África
+Belgrado,Sérvia,Europa
+Victoria,Seicheles,Ilhas
+Freetown,Serra Leoa,África
+Philipsburg,São Martinho,Ilhas
+Bratislava,Eslováquia,Europa
+Liubliana,Eslovênia,Europa
+Honiara,Ilhas Salomão,Ilhas
+Mogadíscio,Somália,África
+Pretória,África do Sul,África
+Grytviken,Il. Geórgia do Sul e Sandwich do Sul.,Ilhas
+Seoul,Coréia do Sul,Ásia-Pacífico
+Madri,Espanha,Europa
+Cota,Sri Lanka,Ásia-Pacífico
+Cartum,Sudão,África
+Juba,Sudão do Sul,África
+Paramaribo,Suriname,Américas
+Mbabane,Suazilândia,África
+Estocolmo,Suécia,Europa
+Berna,Suíça,Europa
+Damasco,Síria,Oriente Médio
+Duchambé,Tajiquistão,Ásia-Pacífico
+Dodoma,Tanzânia,África
+Bancoque,Tailândia,Ásia-Pacífico
+Lomé,Togo,África
+Nuku?alofa,Tonga,Ilhas
+Port of Spain,Trindade e Tobago,Ilhas
+Edimburgo dos Sete Mares,Tristão da Cunha,Ilhas
+Tunis,Tunísia,África
+Ankara,Turquia,Oriente Médio
+Asgabete,Turcomenistão,Ásia-Pacífico
+Cockburn Town,Ilhas Turcas e Caicos,Ilhas
+Funafuti,Tuvalu,Ilhas
+Kampala,Uganda,África
+Kiev,Ucrânia,Europa
+Abu Dhabi,Emirados Árabes Unidos,Oriente Médio
+Londres,Reino Unido,Europa
+"Washington,D.C.",Estados Unidos,Américas
+Charlotte Amalie,Ilhas Virgens Americanas,Ilhas
+Montevidéo,Uruguai,Américas
+Tashkent,Uzbequistão,Ásia-Pacífico
+Port Vila,Vanuatu,Ilhas
+Caracas,Venezuela,Américas
+Hanoi,Vietnã,Ásia-Pacífico
+Cardiff,País de Gales,Europa
+Mata-Utu,Wallis e Futuna,Ilhas
+Sanaá,Yêmen,Oriente Médio
+Lusaka,Zâmbia,África
+Harare,Zimbabwe,África
+Taipei,Taiwan,Ásia-Pacífico
